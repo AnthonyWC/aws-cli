@@ -2,6 +2,34 @@
 CHANGELOG
 =========
 
+1.11.181
+========
+
+* api-change:``ecs``: Update ecs command to latest version
+
+
+1.11.180
+========
+
+* api-change:``apigateway``: Update apigateway command to latest version
+* bugfix:datapipeline: Fixed a bug in datapipeline where list-runs could only handle 100 runs.
+
+
+1.11.179
+========
+
+* api-change:``cloudhsmv2``: Update cloudhsmv2 command to latest version
+* api-change:``acm``: Update acm command to latest version
+* api-change:``directconnect``: Update directconnect command to latest version
+
+
+1.11.178
+========
+
+* api-change:``cloudfront``: Update cloudfront command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+
+
 1.11.177
 ========
 
