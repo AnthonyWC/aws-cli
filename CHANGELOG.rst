@@ -2,6 +2,39 @@
 CHANGELOG
 =========
 
+1.11.185
+========
+
+* api-change:``ec2``: Update ec2 command to latest version
+
+
+1.11.184
+========
+
+* api-change:``elasticache``: Update elasticache command to latest version
+* api-change:``batch``: Update batch command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``application-autoscaling``: Update application-autoscaling command to latest version
+
+
+1.11.183
+========
+
+* api-change:``rds``: Update rds command to latest version
+* api-change:``elbv2``: Update elbv2 command to latest version
+* api-change:``s3``: Update s3 command to latest version
+
+
+1.11.182
+========
+
+* api-change:``kms``: Update kms command to latest version
+* api-change:``stepfunctions``: Update stepfunctions command to latest version
+* api-change:``pricing``: Update pricing command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``organizations``: Update organizations command to latest version
+
+
 1.11.181
 ========
 
