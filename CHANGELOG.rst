@@ -2,6 +2,24 @@
 CHANGELOG
 =========
 
+1.11.187
+========
+
+* api-change:``apigateway``: Update apigateway command to latest version
+* api-change:``polly``: Update polly command to latest version
+* api-change:``stepfunctions``: Update stepfunctions command to latest version
+* api-change:``ses``: Update ses command to latest version
+
+
+1.11.186
+========
+
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``route53``: Update route53 command to latest version
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``lightsail``: Update lightsail command to latest version
+
+
 1.11.185
 ========
 
