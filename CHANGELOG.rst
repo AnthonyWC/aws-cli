@@ -2,6 +2,28 @@
 CHANGELOG
 =========
 
+1.14.5
+======
+
+* api-change:``elasticbeanstalk``: Update elasticbeanstalk command to latest version
+* api-change:``clouddirectory``: Update clouddirectory command to latest version
+
+
+1.14.4
+======
+
+* api-change:``servicediscovery``: Update servicediscovery command to latest version
+* api-change:``iot``: Update iot command to latest version
+* api-change:``servicecatalog``: Update servicecatalog command to latest version
+
+
+1.14.3
+======
+
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``budgets``: Update budgets command to latest version
+
+
 1.14.2
 ======
 
