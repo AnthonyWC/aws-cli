@@ -2,6 +2,18 @@
 CHANGELOG
 =========
 
+1.14.18
+=======
+
+* api-change:``rds``: Update rds command to latest version
+
+
+1.14.17
+=======
+
+* api-change:``workspaces``: Update workspaces command to latest version
+
+
 1.14.16
 =======
 
