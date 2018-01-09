@@ -2,6 +2,22 @@
 CHANGELOG
 =========
 
+1.14.20
+=======
+
+* api-change:``discovery``: Update discovery command to latest version
+* api-change:``codedeploy``: Update codedeploy command to latest version
+* api-change:``route53``: Update route53 command to latest version
+
+
+1.14.19
+=======
+
+* api-change:``snowball``: Update snowball command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``inspector``: Update inspector command to latest version
+
+
 1.14.18
 =======
 
