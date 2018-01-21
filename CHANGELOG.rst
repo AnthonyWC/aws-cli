@@ -2,6 +2,40 @@
 CHANGELOG
 =========
 
+1.14.29
+=======
+
+* api-change:``glue``: Update glue command to latest version
+* api-change:``transcribe``: Update transcribe command to latest version
+
+
+1.14.28
+=======
+
+* api-change:``sagemaker``: Update sagemaker command to latest version
+
+
+1.14.27
+=======
+
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``autoscaling-plans``: Update autoscaling-plans command to latest version
+
+
+1.14.26
+=======
+
+* api-change:``application-autoscaling``: Update application-autoscaling command to latest version
+* api-change:``rds``: Update rds command to latest version
+* api-change:``autoscaling-plans``: Update autoscaling-plans command to latest version
+
+
+1.14.25
+=======
+
+* api-change:``lambda``: Update lambda command to latest version
+
+
 1.14.24
 =======
 
