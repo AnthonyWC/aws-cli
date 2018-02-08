@@ -2,6 +2,32 @@
 CHANGELOG
 =========
 
+1.14.34
+=======
+
+* api-change:``glue``: Update glue command to latest version
+* api-change:``servicediscovery``: Update servicediscovery command to latest version
+* api-change:``servicecatalog``: Update servicecatalog command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+
+
+1.14.33
+=======
+
+* api-change:``cloud9``: Update cloud9 command to latest version
+* api-change:``acm``: Update acm command to latest version
+* api-change:``kinesis``: Update kinesis command to latest version
+* api-change:``opsworks``: Update opsworks command to latest version
+
+
+1.14.32
+=======
+
+* api-change:``medialive``: Update medialive command to latest version
+* api-change:``devicefarm``: Update devicefarm command to latest version
+* api-change:``mturk``: Update mturk command to latest version
+
+
 1.14.31
 =======
 
