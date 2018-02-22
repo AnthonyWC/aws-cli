@@ -2,6 +2,66 @@
 CHANGELOG
 =========
 
+1.14.44
+=======
+
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``serverlessrepo``: Update serverlessrepo command to latest version
+* api-change:``codecommit``: Update codecommit command to latest version
+
+
+1.14.43
+=======
+
+* api-change:``waf-regional``: Update waf-regional command to latest version
+* api-change:``waf``: Update waf command to latest version
+* api-change:``autoscaling``: Update autoscaling command to latest version
+
+
+1.14.42
+=======
+
+* api-change:``config``: Update config command to latest version
+* enhancement:``s3``: Expose ``--request-payer`` to ``cp``, ``sync``, ``mv`, and ``rm`` commands.
+
+
+1.14.41
+=======
+
+* api-change:``rds``: Update rds command to latest version
+
+
+1.14.40
+=======
+
+* api-change:``gamelift``: Update gamelift command to latest version
+* api-change:``mediaconvert``: Update mediaconvert command to latest version
+
+
+1.14.39
+=======
+
+* api-change:``appsync``: Update appsync command to latest version
+* api-change:``lex-models``: Update lex-models command to latest version
+
+
+1.14.38
+=======
+
+* api-change:``route53``: Update route53 command to latest version
+* api-change:``glacier``: Update glacier command to latest version
+
+
+1.14.37
+=======
+
+* api-change:``cognito-idp``: Update cognito-idp command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``rds``: Update rds command to latest version
+* api-change:``guardduty``: Update guardduty command to latest version
+* api-change:``kms``: Update kms command to latest version
+
+
 1.14.36
 =======
 
