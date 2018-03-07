@@ -2,6 +2,54 @@
 CHANGELOG
 =========
 
+1.14.51
+=======
+
+* api-change:``ecs``: Update ecs command to latest version
+
+
+1.14.50
+=======
+
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``events``: Update events command to latest version
+* api-change:``servicecatalog``: Update servicecatalog command to latest version
+* api-change:``storagegateway``: Update storagegateway command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+
+
+1.14.49
+=======
+
+* api-change:``application-autoscaling``: Update application-autoscaling command to latest version
+
+
+1.14.48
+=======
+
+* api-change:``ecr``: Update ecr command to latest version
+
+
+1.14.47
+=======
+
+* api-change:``route53``: Update route53 command to latest version
+* api-change:``sts``: Update sts command to latest version
+
+
+1.14.46
+=======
+
+* api-change:``appstream``: Update appstream command to latest version
+
+
+1.14.45
+=======
+
+* api-change:``elbv2``: Update elbv2 command to latest version
+* api-change:``ce``: Update ce command to latest version
+
+
 1.14.44
 =======
 
