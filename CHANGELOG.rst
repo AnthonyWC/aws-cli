@@ -2,6 +2,56 @@
 CHANGELOG
 =========
 
+1.14.58
+=======
+
+* api-change:``elasticbeanstalk``: Update elasticbeanstalk command to latest version
+
+
+1.14.57
+=======
+
+* api-change:``pinpoint``: Update pinpoint command to latest version
+* api-change:``sagemaker``: Update sagemaker command to latest version
+* api-change:``organizations``: Update organizations command to latest version
+
+
+1.14.56
+=======
+
+* api-change:``lightsail``: Update lightsail command to latest version
+
+
+1.14.55
+=======
+
+* api-change:``servicediscovery``: Update servicediscovery command to latest version
+
+
+1.14.54
+=======
+
+* api-change:``cloudhsmv2``: Update cloudhsmv2 command to latest version
+* api-change:``redshift``: Update redshift command to latest version
+* api-change:``discovery``: Update discovery command to latest version
+* api-change:``iot``: Update iot command to latest version
+
+
+1.14.53
+=======
+
+* api-change:``rds``: Update rds command to latest version
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``pinpoint``: Update pinpoint command to latest version
+* api-change:``mgh``: Update mgh command to latest version
+
+
+1.14.52
+=======
+
+* api-change:``medialive``: Update medialive command to latest version
+
+
 1.14.51
 =======
 
