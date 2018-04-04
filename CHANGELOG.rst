@@ -2,6 +2,90 @@
 CHANGELOG
 =========
 
+1.14.70
+=======
+
+* api-change:``translate``: Update translate command to latest version
+* api-change:``lambda``: Update lambda command to latest version
+* api-change:``devicefarm``: Update devicefarm command to latest version
+
+
+1.14.69
+=======
+
+* api-change:``es``: Update es command to latest version
+* api-change:``apigateway``: Update apigateway command to latest version
+* api-change:``cloudfront``: Update cloudfront command to latest version
+
+
+1.14.68
+=======
+
+* api-change:``connect``: Update connect command to latest version
+* api-change:``acm``: Update acm command to latest version
+
+
+1.14.67
+=======
+
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``cloudformation``: Update cloudformation command to latest version
+* api-change:``alexaforbusiness``: Update alexaforbusiness command to latest version
+* api-change:``greengrass``: Update greengrass command to latest version
+
+
+1.14.66
+=======
+
+* api-change:``sts``: Update sts command to latest version
+* api-change:``iam``: Update iam command to latest version
+* api-change:``mturk``: Update mturk command to latest version
+
+
+1.14.65
+=======
+
+* api-change:``acm``: Update acm command to latest version
+
+
+1.14.64
+=======
+
+* api-change:``dynamodb``: Update dynamodb command to latest version
+
+
+1.14.63
+=======
+
+* api-change:``rds``: Update rds command to latest version
+
+
+1.14.62
+=======
+
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``codebuild``: Update codebuild command to latest version
+* api-change:``appstream``: Update appstream command to latest version
+
+
+1.14.60
+=======
+
+* api-change:``serverlessrepo``: Update serverlessrepo command to latest version
+
+
+1.14.59
+=======
+
+* api-change:``medialive``: Update medialive command to latest version
+* api-change:``elasticbeanstalk``: Update elasticbeanstalk command to latest version
+* api-change:``events``: Update events command to latest version
+* api-change:``glue``: Update glue command to latest version
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``config``: Update config command to latest version
+* api-change:``ce``: Update ce command to latest version
+
+
 1.14.58
 =======
 
