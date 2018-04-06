@@ -2,6 +2,18 @@
 CHANGELOG
 =========
 
+1.15.2
+======
+
+* api-change:``batch``: Update batch command to latest version
+
+
+1.15.1
+======
+
+* api-change:``ssm``: Update ssm command to latest version
+
+
 1.15.0
 ======
 
