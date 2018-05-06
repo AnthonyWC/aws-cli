@@ -2,6 +2,108 @@
 CHANGELOG
 =========
 
+1.15.14
+=======
+
+* api-change:``guardduty``: Update guardduty command to latest version
+
+
+1.15.13
+=======
+
+* api-change:``appsync``: Update appsync command to latest version
+* api-change:``config``: Update config command to latest version
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+
+
+1.15.12
+=======
+
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``acm``: Update acm command to latest version
+* api-change:``codepipeline``: Update codepipeline command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+
+
+1.15.11
+=======
+
+* api-change:``sagemaker``: Update sagemaker command to latest version
+* api-change:``workspaces``: Update workspaces command to latest version
+* api-change:``alexaforbusiness``: Update alexaforbusiness command to latest version
+* api-change:``guardduty``: Update guardduty command to latest version
+* api-change:``route53domains``: Update route53domains command to latest version
+* api-change:``dynamodb``: Update dynamodb command to latest version
+
+
+1.15.10
+=======
+
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+* api-change:``glacier``: Update glacier command to latest version
+
+
+1.15.9
+======
+
+* api-change:``xray``: Update xray command to latest version
+* bugfix:bundled-installer: Fixes an issue causing the bundled installer to fail to build on python2.6.
+* api-change:``rekognition``: Update rekognition command to latest version
+* api-change:``codedeploy``: Update codedeploy command to latest version
+* enhancement:s3: Add ONEZONE_IA option to the --storage-class argument of the s3 transfer commands
+
+
+1.15.8
+======
+
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+* api-change:``elasticbeanstalk``: Update elasticbeanstalk command to latest version
+* bugfix:bundled-installer: Fixes a bug in the bundled installer caused by a dependency using `setup_requires`. pip doesn't manage these setup time dependencies, so we have to manually handle them. This fixes the issue where running the bundled installer on a machine without internet access would fail since we were not bundling all the transitive dependencies.
+
+
+1.15.7
+======
+
+* api-change:``iot``: Update iot command to latest version
+* api-change:``iotanalytics``: Update iotanalytics command to latest version
+* api-change:``autoscaling-plans``: Update autoscaling-plans command to latest version
+
+
+1.15.6
+======
+
+* api-change:``medialive``: Update medialive command to latest version
+* api-change:``firehose``: Update firehose command to latest version
+
+
+1.15.5
+======
+
+* api-change:``ce``: Update ce command to latest version
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+* api-change:``rds``: Update rds command to latest version
+* api-change:``devicefarm``: Update devicefarm command to latest version
+* api-change:``ec2``: Update ec2 command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``codepipeline``: Update codepipeline command to latest version
+
+
+1.15.4
+======
+
+* api-change:``glue``: Update glue command to latest version
+* api-change:``workmail``: Update workmail command to latest version
+* api-change:``dms``: Update dms command to latest version
+* api-change:``ssm``: Update ssm command to latest version
+* api-change:``mediapackage``: Update mediapackage command to latest version
+
+
+1.15.3
+======
+
+* api-change:``clouddirectory``: Update clouddirectory command to latest version
+
+
 1.15.2
 ======
 
