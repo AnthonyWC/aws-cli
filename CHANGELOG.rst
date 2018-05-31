@@ -2,6 +2,50 @@
 CHANGELOG
 =========
 
+1.15.30
+=======
+
+* api-change:``neptune``: Update neptune command to latest version
+* api-change:``elbv2``: Update elbv2 command to latest version
+
+
+1.15.29
+=======
+
+* api-change:``pi``: Update pi command to latest version
+
+
+1.15.28
+=======
+
+* api-change:``glue``: Update glue command to latest version
+* api-change:``iot``: Update iot command to latest version
+* api-change:``appstream``: Update appstream command to latest version
+* api-change:``config``: Update config command to latest version
+
+
+1.15.27
+=======
+
+* api-change:``elbv2``: Update elbv2 command to latest version
+* api-change:``secretsmanager``: Update secretsmanager command to latest version
+* api-change:``codebuild``: Update codebuild command to latest version
+* api-change:``rds``: Update rds command to latest version
+
+
+1.15.26
+=======
+
+* api-change:``ecs``: Update ecs command to latest version
+* api-change:``inspector``: Update inspector command to latest version
+
+
+1.15.25
+=======
+
+* api-change:``cloudformation``: Update cloudformation command to latest version
+
+
 1.15.24
 =======
 
